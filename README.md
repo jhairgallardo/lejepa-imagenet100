@@ -215,6 +215,10 @@ If you use this code, please cite LeJEPA:
 }
 ```
 
-## 9. License
+## 9. AI assistance disclosure
+
+Parts of the code, the analysis of the training runs and this README were written with the help of Claude (Anthropic). All experiments were run by the author, and every reported number comes from those runs' logs.
+
+## 10. License
 
 This code is released under [CC BY-NC 4.0](LICENSE), the same license as the official [LeJEPA implementation](https://github.com/galilai-group/lejepa); `sigreg.py` is adapted from it.
